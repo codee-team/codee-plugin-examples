@@ -1,2 +1,2 @@
 # codee-plugin-examples
-Examples for plugins
+Example plugins for [Codee](https://github.com/codee-team/codee-app/).
