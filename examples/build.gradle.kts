@@ -30,7 +30,7 @@ android {
 
 dependencies {
     implementation("androidx.core:core-ktx:1.5.0")
-    implementation("me.neon.codee:core:1.0.0")
+    implementation("me.neon.codee:core:1.0.1")
     implementation(kotlin("reflect"))
     implementation(kotlin("script-util"))
     implementation(kotlin("scripting-compiler-embeddable"))

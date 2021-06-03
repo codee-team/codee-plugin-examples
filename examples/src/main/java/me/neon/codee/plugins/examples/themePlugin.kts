@@ -23,7 +23,7 @@ object TestThemePlugin : Plugin {
 // defines new theme. It is better to inherit `LightTheme` or `DarkTheme`
 // to avoid runtime errors when new fields will appear in `Theme`.
 object MyTheme : LightTheme() {
-    override val primary: UInt = 0x000000u
+    override val primary: String = "#0e0e0e"
 }
 
 // registers a plugin to start working with the application
